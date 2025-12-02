@@ -1,1 +1,1 @@
-
+print("anma")
