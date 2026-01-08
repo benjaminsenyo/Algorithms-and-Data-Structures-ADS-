@@ -1,4 +1,4 @@
-from soluti import merge_intervals
+from solution import merge_intervals
 
 def run_test(intervals, expected):
     result = merge_intervals([i[:] for i in intervals])
